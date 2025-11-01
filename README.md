@@ -1,5 +1,6 @@
-🏥 Patient Management API 🏥
-🚀 Overview
+ Patient Management API 
+
+Overview
 
 Welcome to the Patient Management System API built with FastAPI. This API allows you to manage patient records efficiently and provides essential functionalities like creating, viewing, updating, and deleting patient data. With automated BMI calculations and health status verdicts (e.g., Normal, Underweight, Obese), this API is designed for healthcare applications, clinics, and wellness platforms.
 
